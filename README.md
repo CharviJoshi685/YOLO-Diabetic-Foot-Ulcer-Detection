@@ -16,6 +16,12 @@ git clone https://github.com/YOUR_USERNAME/YOLO-Diabetic-Foot-Ulcer-Detection.gi
 cd YOLO-Diabetic-Foot-Ulcer-Detection
 pip install -r requirements.txt
 ```
+## 📁 Dataset
+
+This project uses the publicly available [Diabetic Foot Ulcer Dataset on Kaggle](https://www.kaggle.com/datasets/laithjj/diabetic-foot-ulcer-dfu).
+
+You can download the dataset (images and YOLO annotations) from:  
+🔗 [https://www.kaggle.com/datasets/laithjj/diabetic-foot-ulcer-dfu](https://www.kaggle.com/datasets/laithjj/diabetic-foot-ulcer-dfu)
 
 ## 🏋️‍♀️ Training
 
