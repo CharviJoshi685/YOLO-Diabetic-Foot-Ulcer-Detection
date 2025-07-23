@@ -1,0 +1,8 @@
+__pycache__/
+*.pt
+runs/
+data/*.zip
+*.jpg
+*.png
+*.ipynb
+.env
